@@ -28,3 +28,4 @@ recentCount = 7.0
 name = "mastodon"
 url = "https://mastodon.social/@Gywang"
 username = "gywang"
+rel = "me"
