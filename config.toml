@@ -1,4 +1,4 @@
-baseURL = "https://tv.gywang.one/"
+baseURL = "https://www.gywang.one/"
 relativeURLs = "True"
 languageCode = "en-us"
 title = "A place to put my self-reflections"
@@ -24,7 +24,7 @@ title = "Recent Blog Posts"
 recents = "posts"
 recentCount = 7.0
 
-#[[params.ananke_socials]]
-#name = "mastodon"
-#url = "https://mastodon.social/@Gywang"
-#username = "gywang"
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://mastodon.social/@Gywang"
+username = "gywang"
