@@ -1,8 +1,11 @@
 baseURL = "https://www.gywang.one/"
-relativeURLs = "True"
+relativeURLs = true
 languageCode = "en-us"
 title = "A place to put my self-reflections"
 theme = "ananke"
+
+enableRobotsTXT = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -22,7 +25,7 @@ featured_image = "/images/Shuksan.jpg"
 [[params.footer]]
 title = "Recent Blog Posts"
 recents = "posts"
-recentCount = 7.0
+recentCount = 7
 
 [[params.ananke_socials]]
 name = "mastodon"
