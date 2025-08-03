@@ -5,7 +5,7 @@ date: 2025-08-02T00:00:00-07:00
 # bookSearchExclude: false
 ---
 
-[Where Reasons End 李翊云 著 兰登书屋 2021 192页] (https://www.barnesandnoble.com/w/where-reasons-end-yiyun-li/1129040307?ean=9781984801654&st=AFF&2sid=Random%20House%20Inc_8373827_NA&sourceId=AFFRandom%20House%20Inc)
+[Where Reasons End 李翊云 著 兰登书屋 2021 192页](https://www.barnesandnoble.com/w/where-reasons-end-yiyun-li/1129040307?ean=9781984801654&st=AFF&2sid=Random%20House%20Inc_8373827_NA&sourceId=AFFRandom%20House%20Inc)
 
 Where Reasons End 无疑是一本令人心碎的书。尽管被归类为虚构小说，但它实际上是作者李翊云与她已故儿子Vincent之间一场想象中的对话，这使得这本书并非传统意义上的文学虚构。书中的背景事件和人物经历都源于真实，因此这些对话无疑曾真实地在作者脑海中上演。
 
