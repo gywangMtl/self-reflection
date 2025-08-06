@@ -32,10 +32,11 @@ date: 2025-08-54T00:00:00-07:00
 \[ f-e+v=2 \]
 \[ f+v=2+e \]
 两边除以\( 2e \)
+
 \[
-
-\frac{2\cdot e}{p \cdot 2 \cdot e} + \frac{2 \cdot e}{q \cdot 2 \cdot e} = \frac{1}{2} + \frac{1}{e}
-
-
+\frac{2 \cdot e}{p \cdot 2 \cdot e} + \frac{2 \cdot e}{q \cdot 2 \cdot e} = \frac{1}{2} + \frac{1}{e}
+\]
+即
+\[
 \frac{1}{p} + \frac{1}{q} = \frac{1}{2} + \frac{1}{e}
 \]
