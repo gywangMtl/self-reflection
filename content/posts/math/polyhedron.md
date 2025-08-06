@@ -1,6 +1,6 @@
 ---
 title: "多面体"
-date: 2025-08-54T00:00:00-07:00
+date: 2025-08-05T00:00:00-07:00
 # bookComments: false
 # bookSearchExclude: false
 ---
