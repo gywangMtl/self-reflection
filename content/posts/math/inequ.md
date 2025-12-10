@@ -18,7 +18,7 @@ $$ 0< b_{k+1} \le b_{k+2} \le \ldots \le b_n $$
 因此可记
 $$ S = b_{k+1} + b_{k+2} + \dots + b_n = -(b_1+b_2+ \ldots + b_k) > 0 $$
 
-对于\(i le k\),有\(a_i \le a_k\),又因为\(b_i<0\)
+对于\(i \le k\),有\(a_i \le a_k\),又因为\(b_i<0\)
 因此\( a_i b_i \ge a_k b_i \)
 
 对于\(i>k\),有\(a_i \ge a_{k+1}\),又因为\(b_i>0\)
