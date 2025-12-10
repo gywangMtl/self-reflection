@@ -4,7 +4,7 @@ date: 2025-12-09T00:00:00-07:00
 # bookComments: false
 # bookSearchExclude: false
 ---
-设\( a_1 \le a_2 \le \ldots \le a_n, b_1 \le b_2 \le \ldots \le b_n \). 并且\( b_1+b_2+ \ldots + b_n=0$. 求证: \( \sum_(i=1)^n a_i b_i \ge 0 \)
+设\( a_1 \le a_2 \le \ldots \le a_n, b_1 \le b_2 \le \ldots \le b_n \). 并且\( b_1+b_2+ \ldots + b_n=0 \). 求证: \( \sum_{i=1}^n a_i b_i \ge 0 \)
 
 **证明**
 
@@ -12,9 +12,9 @@ date: 2025-12-09T00:00:00-07:00
 
 因为\(b_1+b_2+ \dots + b_n=0 \) 且\(b_1 \le b_2 \le \ldots \le b_n\)所以\(b_i\)可分为两部分:
 
-\(b_1 \le b_2 \le \dots \le b_k <0\),
+$$ b_1 \le b_2 \le \dots \le b_k <0 $$,
 
-\( 0<b_{k+1} \le b_(k+2) \le \ldots <=b_n \)
+$$ 0< b_{k+1} \le b_(k+2) \le \ldots <=b_n $$
 
 因此可记
 $$ S = b_{k+1} + b_{k+2} + \dots + b_n = -(b_1+b_2+ \ldots + b_k) > 0 $$
